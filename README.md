@@ -11,7 +11,7 @@
 
 ### Get User
 ![GetUser](https://github.com/chinmayn1/spring-boot-angular-crud-example/blob/main/ScreenShots/Postman/GetMethod.jpg)
-![GetUser2]https://github.com/chinmayn1/spring-boot-angular-crud-example/blob/main/ScreenShots/Postman/getByIdMethod.jpg)
+![GetUser2](https://github.com/chinmayn1/spring-boot-angular-crud-example/blob/main/ScreenShots/Postman/getByIdMethod.jpg)
 
 ### Edit User
 ![EditUser](https://github.com/chinmayn1/spring-boot-angular-crud-example/blob/main/ScreenShots/Postman/UpdateMethod.jpg)
